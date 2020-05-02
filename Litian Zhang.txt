@@ -1,0 +1,15 @@
+Hi, this is Litian Zhang. I will describe my project idea in this file. 
+
+The inspiration comes from online shopping. I want to create a website where people can share what products they like in their online shopping experience. 
+
+Whereas this website does not do "shopping", but only sharing experiences. 
+
+The three entities are user, product, and favorite. 
+
+Users are who register and use the service. 
+
+Products are created by users so that they can share how their online shopping experiences are. 
+
+Favorites are categories of products, each user has a favorite, and they can add whatever products they like in their favorites. 
+
+This is my idea for now, I hope it will work with our topic. 
