@@ -1,0 +1,7 @@
+Hello!
+
+My name is Chance Martineau. This is my text file. The inspiration for my poject came from my wife. 
+What I plan on doing for my final project is creating an application where users can post recipes of their creation or that they find
+and then other users can review their recipes, rate them and leave a comment. 
+
+The three entities that I will be including in my project are users, recipes, and reviews. 
