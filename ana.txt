@@ -1,0 +1,7 @@
+Aloha,
+
+I am Ana Camargo and I will be describing my final project idea.
+My idea is to make a website where you could connect people 
+offering services like gardening, cleaning, etc. 
+with people that want to get those services. 
+The three entities would be users, listings and reviews.
