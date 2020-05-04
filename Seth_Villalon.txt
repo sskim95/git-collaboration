@@ -1,0 +1,9 @@
+Aloha! I am Seth from the Philippines. I am majoring in Computer Science and Information Systems. I realized that I should have majored in IT instead of IS. 
+For my project, I wanted to built a site that is similar that I have built at work. My project will have 3 entities user, events , (undecided). My goal to this site is to increase interaction
+between the user and the site and hopefully lead them to conversion. 
+
+The entities are the following:
+1. User- both the admin and the customer.
+2. Events - any events that the admin would add.
+
+Well anyways, I am hoping that as we move forward to the semester that I would have a better understanding of what I wanted to build 
