@@ -1,0 +1,9 @@
+Hello everyone, I am Junrui.
+My final project idea is about the mini software platform. 
+The idea came from a Chinese software plug-in. 
+Simple software functions can be obtained without installation but all in website
+And it can be applied to personal catering or small business and organization management.
+The three entities: User, Store, Miniapp
+User for all the users.
+Store for Businesses and organizations or individuals
+Miniapp for Programs with software functions
