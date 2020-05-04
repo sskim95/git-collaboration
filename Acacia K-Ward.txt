@@ -1,0 +1,10 @@
+Aloha, 
+
+My name is Acacia Kahananui-Ward and in this text file I will describe my project.
+
+I am going to create an app that is kind of a hybrid between Instagram and TripAdvisor. It will be an app where 
+you can post on your own page your own travel experience and rate the places that you visit. When something is 
+posted for a certain location it will also post to a page under that category or location if permitted by the user. 
+From the posts that people leave, the user that leaves the posts can make it an option to let people connect with 
+them so they can help other people prepare for their own trips. 
+The three entities will be User, Reviews, and Location. 
