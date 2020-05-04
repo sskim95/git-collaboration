@@ -1,0 +1,9 @@
+Nathan Murray Final Project Purposal
+For the last 2 years I have been looking into starting a website with affiliate links
+that will allow me to market products online for people to buy. I have struggeled to come
+up with some good products that will sell. I will create a webpage where people can enter 
+what they would like to buy online. Most it important there will be a second list where 
+they will enter what they would not buy online. 
+This project will have three entities a user list of would but and a list of would not buy
+I will have the user email so I can email them later any affliate links to the products that 
+they would buy online.
