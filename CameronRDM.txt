@@ -1,0 +1,5 @@
+Hello, I am looking forward to learning a lot in this class.
+
+I hope to make something of a Reddit clone. There will be users that can create
+different channels/forums, and make posts on the forums. Users will also be able to comment
+So in total there will be four entities, Users, Channels, Posts, and Comments
