@@ -1,0 +1,7 @@
+Aloha, this is Lana Wong!  I hope I can do well in this class CS490R.
+
+For my final prject, I'm planning to make the project to share the special skills.  
+The three entities will be user, skills, and mark (like favorite): 
+User means the users who use this service,
+Skills are the skills that users share by uploading,
+and Mark is the other users' special skills that the user liked it and mark it.
